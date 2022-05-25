@@ -6,5 +6,6 @@ df.columns =[str(i).lower().replace(' ','_') for i in df.columns]
 print(df)
 
 
-#df['date'] = pd.to_datetime(df['date'])
 print(df[df['date']>'2020-05-24'])
+
+
