@@ -1,7 +1,7 @@
 import cv2
 
 
-vid = cv2.VideoCapture('ncc.mp4')
+vid = cv2.VideoCapture('actor_critic/ncc.mp4')
 while (True):
 
     # Capture the video frame
