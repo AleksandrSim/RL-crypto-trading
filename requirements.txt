@@ -1,0 +1,5 @@
+pandas~=1.4.1
+numpy~=1.21.4
+matplotlib~=3.5.1
+opencv-python~=4.5.4.60
+mplfinance~=0.12.9b0
