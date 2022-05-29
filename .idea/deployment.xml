@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ubuntu@ec2-3-144-188-29.us-east-2.compute.amazonaws.com:22 (3)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ubuntu@ec2-18-118-48-45.us-east-2.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/RL-crypto-trading" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-3-137-221-118.us-east-2.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_822" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-3-144-188-29.us-east-2.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_246" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-3-144-188-29.us-east-2.compute.amazonaws.com:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_68" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-3-144-188-29.us-east-2.compute.amazonaws.com:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_516" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-3-145-41-146.us-east-2.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_291" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
